@@ -1,5 +1,5 @@
 # karuta
-A training programming for karuta
+A training program for karuta
 
 java version : 11
 ## usage
